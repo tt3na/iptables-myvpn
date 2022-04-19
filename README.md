@@ -1,2 +1,2 @@
 # iptables-myvpn
-さくらVPS上に建てたVPNサーバーでのiptables設定のメモ
+VPS上に建てたVPNサーバーでのiptables設定のメモ
