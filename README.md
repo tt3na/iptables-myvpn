@@ -7,6 +7,6 @@ VPS上に建てたVPNサーバーでのiptables設定のメモです。
 
 /etc/rc.localなどにこのスクリプトを読み込むように記述すると起動時に自動的に設定が適用されます。
 
-> sudo sh /home/minawa-vps/ipt.sh
+> sudo sh /home/vps/ipt.sh
 > 
-> echo 1 >/proc/sys/net/ipv4/ip_forward
+> echo 1 > /proc/sys/net/ipv4/ip_forward
